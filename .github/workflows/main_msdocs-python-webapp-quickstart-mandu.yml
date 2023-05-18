@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdocs-python-webapp-quickstart-Mandu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_542087189FE14C35802FF830B836908B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28D160878B50403CBB42F0B2D916D005 }}
